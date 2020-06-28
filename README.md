@@ -1,6 +1,6 @@
 # Capstone Project: Real/Fake News Prediction
 
-![](https://github.com/shandeep92/dsi14projects/blob/master/project4/plot_images/lineplot_wnvpresent_over_months.png)
+![](https://github.com/shandeep92/capstone/blob/master/wordcloud_keywords_topics%20copy.jpg)
 
 ## Context 
 
